@@ -6,7 +6,7 @@ print("You have come to the right place :)")
 grew_up = input("In what city did you grow up? ")
 
 #3. Ask the user for the name of a pet.
-
+pet = input("What was the name of your first pet? ")
 
 #4. Combine the name of their city and pet and show them their band name.
 
