@@ -1,4 +1,6 @@
 #1. Create a greeting for your program.
+print("Having problems figuring out a name for your band?")
+print("You have come to the right place :)")
 
 #2. Ask the user for the city that they grew up in.
 
